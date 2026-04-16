@@ -1,0 +1,22 @@
+{
+  "base_price": 3750,
+  "beamstation_catalog_url": "https://beamstation.com/datasets",
+  "beamstation_origin": "https://beamstation.com",
+  "category_group_name": "Restaurants",
+  "config_category": "census",
+  "config_description": "Metro-wide restaurant data for the Modesto (Metro), California metropolitan area, spanning Modesto. Spans multiple municipalities within a mid-size metropolitan dining market. Filtered by the Restaurants category group with business profiles, sentiment data, review trends, and competitive benchmarks. Refreshed weekly.",
+  "config_name": "All Restaurants in Modesto (Metro), California, US",
+  "export_job_id": "3078ec87-1a24-43b0-b336-5f8c50effc76",
+  "github_org": "Beamstation-Datasets",
+  "id_short": 705935,
+  "location_name": "Modesto, CA",
+  "location_type": "metro",
+  "repo_name": "all-restaurants-in-modesto-metro-california-us-sample-705935",
+  "sample_b2_path": "b2-export:BeamStation-ExportFiles/705935/beamstation_705935_restaurants-us-modestoca_SAMPLE_DIST.csv",
+  "sample_pct": 16.49,
+  "sample_records": 107,
+  "sample_sha256": "4111cc6d3702c406c764d2785ae3f295ca9d52d9b86a7dd16e088af3bdca640e",
+  "sample_size_bytes": 383266,
+  "total_records": 649,
+  "updated_at": "2026-03-31T14:03:20.769856+00:00"
+}
