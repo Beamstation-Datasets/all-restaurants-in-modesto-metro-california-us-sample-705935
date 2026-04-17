@@ -9,9 +9,9 @@
 | Dataset ID | `705935` |
 | Location | Modesto, CA |
 | Category | Restaurants |
-| Full dataset size | 649 records |
-| Free sample size | 107 records (16.49%) |
-| Last export | 2026-03-31T14:03:20.769856+00:00 |
+| Full dataset size | 1,072 records |
+| Free sample size | 107 records (9.98%) |
+| Last export | 2026-04-14T14:29:28.230289+00:00 |
 | Download | [Latest release asset](https://github.com/Beamstation-Datasets/all-restaurants-in-modesto-metro-california-us-sample-705935/releases/download/sample-latest/beamstation_705935_restaurants-us-modestoca_SAMPLE_DIST.csv) |
 
 ## What is in this sample
